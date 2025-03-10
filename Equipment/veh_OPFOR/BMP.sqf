@@ -21,7 +21,7 @@ _veh additemcargoGlobal ['rhs_mag_rgd5', 10];
 _veh additemcargoGlobal ['rhs_mag_rdg2_white', 10];
 _veh additemcargoGlobal ['rhs_weap_rpg26', 1];
 
-_veh addItemCargoGlobal ["ace_mag_9m113m", 2];
+_veh addItemCargoGlobal ["ace_mag_9m113m", 4];
 
 _veh additemcargoGlobal ['ToolKit', 1];
 _veh additemcargoGlobal ['rhssaf_helmet_m97_digital', 2];

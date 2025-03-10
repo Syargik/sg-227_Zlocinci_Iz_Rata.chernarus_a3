@@ -21,5 +21,7 @@ _veh addItemCargoGlobal ["ace_1Rnd_122mm_3d4", 15];
 _veh additemcargoGlobal ['ToolKit', 1];
 _veh additemcargoGlobal ['rhssaf_helmet_m97_digital', 4];
 
+_veh additemcargoGlobal ['ACE_artilleryTable', 2];
+
 _veh addBackpackCargoGlobal ['rhsusf_falconii', 2];
-_veh addBackpackCargoGlobal ['tf_mr6000l_emr_RETRO', 2];
+_veh addBackpackCargoGlobal ['tf_mr6000l_emr_RETRO', 1];

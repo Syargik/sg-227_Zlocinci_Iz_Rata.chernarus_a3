@@ -26,9 +26,10 @@ for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_rdg2_white';};
 
 // Backpack with items: 
 
-_unit addBackpack "rhsusf_falconii";
-for '_i' from 1 to 1 do { _unit addItemToBackpack 'rhs_mag_smaw_HEAA';};
+_unit addBackpack "B_Carryall_Green";
+for '_i' from 1 to 3 do { _unit addItemToBackpack 'rhs_mag_smaw_HEAA';};
 for '_i' from 1 to 2 do { _unit addItemToBackpack 'rhs_mag_smaw_HEDP';};
+for '_i' from 1 to 5 do { _unit addItemToBackpack 'rhs_mag_smaw_SR';};
 
 _unit addHeadgear _headgear;
 _unit addGoggles _googles;

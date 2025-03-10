@@ -14,3 +14,12 @@ if (isServer) then
 {
 	[] call WST_fnc_initPylonsManager;
 };
+
+[
+	[
+		KS,
+		[
+			["BMP_platoon", "Мотопехотный взвод", true, "Мотопехотный взвод", ["north", "south"], []]
+		]
+	]
+] execVM "scripts\fnc_kik_spawnChoice.sqf";

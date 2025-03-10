@@ -17,8 +17,8 @@ _veh additemcargoGlobal ['rhs_10Rnd_762x54mmR_7N14', 10];
 _veh additemcargoGlobal ['mkk_10Rnd_762x54mmR_t46', 5];
 _veh additemcargoGlobal ['rhs_mag_smaw_HEAA', 7];
 _veh additemcargoGlobal ['rhs_mag_smaw_HEDP', 5];
-_veh additemcargoGlobal ['rhs_mag_rgd5', 10];
-_veh additemcargoGlobal ['rhs_mag_rdg2_white', 10];
+_veh additemcargoGlobal ['rhs_mag_rgd5', 20];
+_veh additemcargoGlobal ['rhs_mag_rdg2_white', 20];
 _veh additemcargoGlobal ['rhs_weap_rpg26', 1];
 
 _veh addBackpackCargoGlobal ['rhsusf_falconii', 2];

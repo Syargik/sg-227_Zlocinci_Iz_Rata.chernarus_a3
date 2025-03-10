@@ -21,4 +21,3 @@ _veh additemcargoGlobal ['ToolKit', 1];
 _veh additemcargoGlobal ['rhsusf_opscore_mc_cover_pelt', 2];
 
 _veh addBackpackCargoGlobal ['B_AssaultPack_mcamo', 2];
-_veh addBackpackCargoGlobal ['TFAR_rt1523g_big', 1];
