@@ -20,7 +20,7 @@ removeBackpack _unit;
 _unit forceAddUniform "AGE_Fatigues_MultiCam_Gloves";
 
 // Vest with items:
-_unit addVest "tfa_cpc_communicationsbelt_mc_patch";
+_unit addVest "tfa_cpc_communicationsbelt_mc_empty";
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhsusf_200Rnd_556x45_box';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};

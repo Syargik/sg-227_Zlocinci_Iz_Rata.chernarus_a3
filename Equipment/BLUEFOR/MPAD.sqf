@@ -6,8 +6,8 @@ _unit addBackpack "B_Carryall_Base";
 
 // Weapons with attachments:
 
-_unit addItem "mkk_rhs_fim92F_mag";
-_unit addWeapon "mkk_rhs_weap_fim92f";
+_unit addItem "mkk_rhs_fim92M_mag";
+_unit addWeapon "mkk_weap_fim92M";
 
 _unit addItem "rhs_mag_30Rnd_556x45_M855A1_PMAG";
 _unit addWeapon "rhs_weap_m4a1_blockII_bk";
