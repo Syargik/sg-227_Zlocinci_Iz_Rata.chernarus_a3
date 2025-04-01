@@ -12,7 +12,7 @@ _unit addItem "rhs_mag_smaw_HEAA";
 _unit addWeapon "rhs_weap_smaw_green";
 _unit addSecondaryWeaponItem "rhs_weap_optic_smaw";
 
-_unit addItem "mkk_30rnd_556x45_m856a1_m21";
+_unit addItem "rhsgref_30rnd_556x45_m21_t";
 _unit addWeapon "rhs_weap_m21a_pr";
 _unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
 
@@ -25,8 +25,8 @@ _unit forceAddUniform _uniform;
 
 // Vest with items:
 _unit addVest "JCA_MCRP_V_CarrierRigKBT_01_CQB_olive_F";
-for '_i' from 1 to 6 do { _unit addItemToVest 'mkk_30rnd_556x45_m856a1_m21';};
-for '_i' from 1 to 2 do { _unit addItemToVest 'rhsgref_30rnd_556x45_m21_t';};
+for '_i' from 1 to 6 do { _unit addItemToVest 'rhsgref_30rnd_556x45_m21_t';};
+for '_i' from 1 to 2 do { _unit addItemToVest 'mkk_30rnd_556x45_m856a1_m21';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_rgd5';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_rdg2_white';};
 
