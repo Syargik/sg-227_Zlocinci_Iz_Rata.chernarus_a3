@@ -9,8 +9,8 @@ _veh addItemcargoGlobal ['ACE_elasticBandage', 15];
 _veh addItemcargoGlobal ['ACE_packingBandage', 15];
 _veh addItemCargoGlobal ['ACE_splint', 5];
 
-_veh additemcargoGlobal ['mkk_30rnd_556x45_m856a1_m21', 25];
-_veh additemcargoGlobal ['rhsgref_30rnd_556x45_m21_t', 15];
+_veh additemcargoGlobal ['mkk_30rnd_556x45_m856a1_m21', 15];
+_veh additemcargoGlobal ['rhsgref_30rnd_556x45_m21_t', 25];
 _veh additemcargoGlobal ['rhs_mag_rgd5', 10];
 _veh additemcargoGlobal ['rhs_mag_rdg2_white', 10];
 

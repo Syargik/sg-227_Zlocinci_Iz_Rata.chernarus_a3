@@ -14,5 +14,5 @@ _veh addItemcargoGlobal ['ACE_personalAidKit', 20];
 _veh addItemcargoGlobal ['ACE_surgicalKit', 10];
 _veh additemcargoGlobal ['ACE_suture', 30];
 
-_veh additemcargoGlobal ['mkk_30rnd_556x45_m856a1_m21', 10];
-_veh additemcargoGlobal ['rhsgref_30rnd_556x45_m21_t', 5];
+_veh additemcargoGlobal ['mkk_30rnd_556x45_m856a1_m21', 5];
+_veh additemcargoGlobal ['rhsgref_30rnd_556x45_m21_t', 10];
