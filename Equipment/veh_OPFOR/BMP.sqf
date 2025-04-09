@@ -19,7 +19,7 @@ _veh additemcargoGlobal ['rhs_mag_smaw_HEAA', 7];
 _veh additemcargoGlobal ['rhs_mag_smaw_HEDP', 5];
 _veh additemcargoGlobal ['rhs_mag_rgd5', 10];
 _veh additemcargoGlobal ['rhs_mag_rdg2_white', 10];
-_veh additemcargoGlobal ['rhs_weap_rpg26', 1];
+_veh additemcargoGlobal ['rhs_weap_m80', 2];
 
 _veh addItemCargoGlobal ["ace_mag_9m113m", 4];
 
