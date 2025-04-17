@@ -52,7 +52,13 @@ missionNamespace setVariable ["BLUFORheadgears", [
 ] call BIS_fnc_selectRandom];
 
 missionNamespace setVariable ["BLUFORITheadgears", [
-    "UK3CB_BAF_H_Mk7_Camo_A",
-    "UK3CB_BAF_H_Mk7_Camo_ESS_A",
-	"UK3CB_BAF_H_Mk7_Camo_CESS_A"
+    "acp_IT_Vegetato_modern_west_H_HelmetFASTMT_Cover_IT_Vegetato_F",
+    "acp_IT_Vegetato_core_H_HelmetB_light_IT_Vegetato",
+	"acp_IT_Vegetato_core_H_HelmetSpecB_IT_Vegetato",
+	"acp_IT_Vegetato_core_H_HelmetB_light_basic_IT_Vegetato"
+] call BIS_fnc_selectRandom];
+
+missionNamespace setVariable ["BLUFORITuniforms", [
+	"acp_IT_Vegetato_core_U_I_CombatUniform_shortsleeve_IT_Vegetato_insignia",
+	"acp_IT_Vegetato_core_U_I_CombatUniform_IT_Vegetato_insignia"
 ] call BIS_fnc_selectRandom];

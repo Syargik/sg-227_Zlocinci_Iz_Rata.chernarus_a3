@@ -22,4 +22,4 @@ _veh addItemCargoGlobal ["mkk_csw_cent_mag_m393a2", 10];
 _veh additemcargoGlobal ['ToolKit', 2];
 _veh additemcargoGlobal ['UK3CB_BAF_H_Mk7_Camo_A', 4];
 _veh addBackpackCargoGlobal ['B_AssaultPack_mcamo', 2];
-_veh addBackpackCargoGlobal ['TFAR_rt1523g_big', 1];
+_veh addBackpackCargoGlobal ['mkk_Bag_Felin_45L_Radio', 1];

@@ -1,4 +1,5 @@
 _headgear = missionNamespace getVariable "BLUFORITheadgears";
+_uniform = missionNamespace getVariable "BLUFORITuniforms";
 
 // SolidGames
 
@@ -14,17 +15,17 @@ _unit addPrimaryWeaponItem "rhsusf_acc_compm4";
 removeBackpack _unit;
 
 // Uniform with items:
-_unit forceAddUniform "USP_SOFTSHELL_G3C_MC";
+_unit forceAddUniform _uniform;
 
 // Vest with items:
-_unit addVest "tfa_lbt_weapons_mc";
+_unit addVest "acp_IT_Vegetato_JCA_MCRP_JCA_MCRP_V_CarrierRigKBT_01_cqb_IT_Vegetato_F";
 for '_i' from 1 to 6 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 
 // Backpack with items:
-_unit addBackpack "B_AssaultPack_mcamo";
+_unit addBackpack "acp_IT_Vegetato_core_B_Kitbag_rgr_IT_Vegetato";
 for '_i' from 1 to 10 do { _unit addItemToBackpack 'rhs_mag_M441_HE';};
 _unit addHeadgear _headgear;
 
