@@ -20,4 +20,4 @@ _veh additemcargoGlobal ['rhs_weap_M136', 2];
 _veh additemcargoGlobal ['ToolKit', 1];
 _veh additemcargoGlobal ['rhsusf_opscore_mc_cover_pelt', 2];
 
-_veh addBackpackCargoGlobal ['B_AssaultPack_mcamo', 2];
+_veh addBackpackCargoGlobal ['acp_IT_Vegetato_core_B_AssaultPackEnhanced_IT_Vegetato', 2];
